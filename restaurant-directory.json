@@ -1,0 +1,148 @@
+{
+  "facets": [
+    {
+      "name": "Restaurant Name",
+      "type": "Text",
+      "metadata": {
+        "sortable": true,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Image",
+      "type": "Image",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Description",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Address 1",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Address 2",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "City",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "State",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Zip Code",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Country",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Geolocation",
+      "type": "Location",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Menu URL",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Website",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Category",
+      "type": "Enum",
+      "metadata": {
+        "sortable": false,
+        "filterable": true
+      }
+    },
+    {
+      "name": "Phone Number",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Fax Number",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Email",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Facebook",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    },
+    {
+      "name": "Twitter",
+      "type": "Text",
+      "metadata": {
+        "sortable": false,
+        "filterable": false
+      }
+    }
+  ]
+}
